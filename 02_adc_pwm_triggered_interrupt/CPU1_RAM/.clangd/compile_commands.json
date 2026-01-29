@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt\" -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/device\" -I\"/driverlib/f28003x/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt\" -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/device\" -I\"/driverlib/f28003x/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   },
+   {
+      "directory" : "C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt\" -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/device\" -I\"/driverlib/f28003x/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt\" -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/device\" -I\"/driverlib/f28003x/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM/syscfg\"",
+      "file"      : "C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/device/f28003x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt\" -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/device\" -I\"/driverlib/f28003x/driverlib/\" -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/Mayur Patil/F280039C_Ws/02_adc_pwm_triggered_interrupt/main.c"
+   }
+]
